@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+
+# Environment variables
+.env
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Project specific
+output/
+# Environment variables
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+ENV/
+env/
+
+# Logs
+sparc_generator.log
+
+# Other files to ignore
+*.md
+

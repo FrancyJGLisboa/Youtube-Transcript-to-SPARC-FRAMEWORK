@@ -1,0 +1,386 @@
+system_context: |
+  You are an expert software architect and developer with extensive experience in analyzing requirements and designing robust systems. Your responses should be precise, technically accurate, and focused on actionable insights. Consider scalability, maintainability, security, and best practices in your analysis.
+
+initial_analysis: |
+  Analyze the provided transcript to extract structured information about a software development project.
+
+  **Required Analysis Categories:**
+  1. Core System Definition:
+     - Primary purpose and scope
+     - Target users and use cases
+     - Deployment environment
+     - Integration requirements
+
+  2. Technical Analysis:
+     - Application architecture type (monolithic, microservices, serverless, etc.)
+     - Data management requirements
+     - Security considerations
+     - Performance requirements
+     - Scalability needs
+
+  3. Development Considerations:
+     - Required expertise
+     - Development timeline implications
+     - Potential technical challenges
+     - Risk factors
+
+  **Response Format Requirements:**
+  - Provide a valid JSON object only
+  - No explanatory text or markdown
+  - Use double quotes for all keys
+  - Ensure proper nesting and formatting
+
+  {
+      "application_type": "string",
+      "technical_domain": "string",
+      "core_functionalities": ["string"],
+      "technical_requirements": ["string"],
+      "components": ["string"],
+      "dependencies": ["string"],
+      "technologies": ["string"],
+      "implementation_details": {
+          "algorithms": ["string"],
+          "patterns": ["string"],
+          "architecture_decisions": ["string"],
+          "constraints": ["string"],
+          "security_considerations": ["string"],
+          "performance_requirements": ["string"],
+          "scalability_needs": ["string"],
+          "integration_points": ["string"]
+      },
+      "development_insights": {
+          "required_expertise": ["string"],
+          "estimated_timeline": "string",
+          "technical_challenges": ["string"],
+          "risk_factors": ["string"]
+      }
+  }
+
+specification: |
+  Based on the provided analysis, create a comprehensive software specification document that will serve as the foundation for development.
+
+  **Document Structure:**
+
+  # Software Requirements Specification
+  
+  ## 1. System Overview
+  - Project purpose and scope
+  - Target audience
+  - System context
+  - Assumptions and dependencies
+
+  ## 2. Functional Requirements
+  ### 2.1 Core Features
+  - Detailed feature descriptions
+  - User stories or use cases
+  - Acceptance criteria
+  - Data requirements
+
+  ### 2.2 User Interactions
+  - User workflows
+  - Interface requirements
+  - Response time expectations
+  - Error handling
+
+  ### 2.3 External Interfaces
+  - API specifications
+  - Integration points
+  - Data formats
+  - Communication protocols
+
+  ## 3. Non-Functional Requirements
+  ### 3.1 Performance Requirements
+  - Response time targets
+  - Throughput requirements
+  - Resource utilization limits
+  - Scalability metrics
+
+  ### 3.2 Security Requirements
+  - Authentication/Authorization
+  - Data protection
+  - Audit requirements
+  - Compliance needs
+
+  ### 3.3 Quality Attributes
+  - Reliability metrics
+  - Availability requirements
+  - Maintainability goals
+  - Monitoring requirements
+
+  ## 4. System Constraints
+  - Technical limitations
+  - Business constraints
+  - Regulatory requirements
+  - Resource constraints
+
+  ## 5. Acceptance Criteria
+  - Feature completion criteria
+  - Performance benchmarks
+  - Quality metrics
+  - Testing requirements
+
+pseudocode: |
+  Create detailed pseudocode for the core system components based on the specification. Focus on clarity, modularity, and established design patterns.
+
+  **Expected Structure:**
+
+  ## 1. System Components
+  ### 1.1 Data Structures
+  ```
+  // Define primary data structures
+  Class/Type definitions
+  Relationship mappings
+  Data validation rules
+  ```
+
+  ### 1.2 Core Modules
+  ```
+  // For each major component
+  Module purpose and dependencies
+  Public interfaces
+  Internal functions
+  Error handling
+  ```
+
+  ### 1.3 Algorithms
+  ```
+  // Key algorithmic solutions
+  Input/output specifications
+  Processing steps
+  Edge cases
+  Performance considerations
+  ```
+
+  ## 2. Integration Points
+  ```
+  // External system interfaces
+  API contracts
+  Data transformations
+  Error handling
+  Retry strategies
+  ```
+
+  ## 3. Control Flow
+  ```
+  // Main process flows
+  Initialization sequence
+  State management
+  Error recovery
+  Cleanup procedures
+  ```
+
+architecture: |
+  Design a comprehensive system architecture that implements the specified requirements. Focus on scalability, maintainability, and reliability.
+
+  **Required Sections:**
+
+  ## 1. System Architecture Overview
+  ### 1.1 Architecture Style
+  - Selected architecture pattern(s)
+  - Justification for choices
+  - Key quality attributes addressed
+
+  ### 1.2 System Context
+  ```mermaid
+  C4 context diagram showing system boundaries
+  ```
+
+  ## 2. Component Design
+  ### 2.1 Core Components
+  ```mermaid
+  Component diagram showing internal structure
+  ```
+  
+  ### 2.2 Data Flow
+  ```mermaid
+  Sequence diagram for key operations
+  ```
+
+  ## 3. Technology Stack
+  ### 3.1 Selected Technologies
+  - Infrastructure choices
+  - Framework selection
+  - Database decisions
+  - Third-party services
+
+  ### 3.2 Integration Architecture
+  ```mermaid
+  Integration patterns diagram
+  ```
+
+  ## 4. Deployment Architecture
+  ### 4.1 Deployment Model
+  ```mermaid
+  Deployment diagram
+  ```
+
+  ### 4.2 Infrastructure Requirements
+  - Scaling strategy
+  - High availability approach
+  - Disaster recovery plan
+
+refinement: |
+  Analyze the architecture and design for potential improvements and optimizations. Consider both immediate enhancements and long-term scalability.
+
+  **Analysis Framework:**
+
+  ## 1. Performance Optimization
+  ### 1.1 System Performance
+  - Bottleneck identification
+  - Caching strategies
+  - Query optimization
+  - Resource utilization
+
+  ### 1.2 Scalability Enhancements
+  - Horizontal scaling opportunities
+  - Vertical scaling requirements
+  - Load balancing strategies
+  - Data partitioning approaches
+
+  ## 2. Reliability Improvements
+  ### 2.1 Fault Tolerance
+  - Failure scenarios
+  - Recovery procedures
+  - Circuit breaker patterns
+  - Fallback strategies
+
+  ### 2.2 Data Consistency
+  - Transaction management
+  - Data replication
+  - Conflict resolution
+  - Backup strategies
+
+  ## 3. Security Hardening
+  ### 3.1 Security Analysis
+  - Threat modeling
+  - Authentication improvements
+  - Authorization enhancements
+  - Data protection measures
+
+  ## 4. Maintainability
+  ### 4.1 Code Organization
+  - Modularization opportunities
+  - Interface definitions
+  - Documentation requirements
+  - Testing strategy
+
+completion: |
+  Create a detailed implementation plan that guides the development team through the building and deployment of the system.
+
+  ## 1. Development Roadmap
+  ### 1.1 Phase Planning
+  - Component development sequence
+  - Integration milestones
+  - Testing phases
+  - Deployment stages
+
+  ### 1.2 Critical Path
+  - Core functionality sequence
+  - Integration dependencies
+  - Resource allocation
+  - Risk mitigation steps
+
+  ## 2. Implementation Guidelines
+  ### 2.1 Development Standards
+  - Coding standards
+  - Documentation requirements
+  - Testing requirements
+  - Review processes
+
+  ### 2.2 Quality Assurance
+  - Unit testing strategy
+  - Integration testing plan
+  - Performance testing approach
+  - Security testing requirements
+
+  ## 3. Deployment Strategy
+  ### 3.1 Deployment Process
+  - Environment setup
+  - Deployment sequence
+  - Rollback procedures
+  - Monitoring setup
+
+  ### 3.2 Operations Guide
+  - Maintenance procedures
+  - Monitoring requirements
+  - Backup procedures
+  - Incident response
+
+validation: |
+  Perform a comprehensive validation of all generated artifacts against the original requirements and best practices.
+
+  **Validation Response Format:**
+  {
+      "coverage_analysis": {
+          "features_covered": ["string"],
+          "missing_features": ["string"],
+          "requirements_covered": ["string"],
+          "missing_requirements": ["string"],
+          "security_coverage": {
+              "covered_aspects": ["string"],
+              "gaps": ["string"]
+          },
+          "performance_coverage": {
+              "addressed_requirements": ["string"],
+              "missing_considerations": ["string"]
+          }
+      },
+      "technical_validation": {
+          "architecture_completeness": boolean,
+          "implementation_feasibility": boolean,
+          "scalability_assessment": {
+              "strengths": ["string"],
+              "concerns": ["string"]
+          },
+          "security_assessment": {
+              "strengths": ["string"],
+              "vulnerabilities": ["string"]
+          },
+          "recommendations": ["string"]
+      },
+      "overall_assessment": {
+          "ready_for_implementation": boolean,
+          "risk_level": "string",
+          "critical_gaps": ["string"],
+          "suggested_improvements": ["string"],
+          "priority_actions": ["string"]
+      },
+      "compliance_check": {
+          "industry_standards": ["string"],
+          "best_practices": ["string"],
+          "regulatory_requirements": ["string"],
+          "gaps": ["string"]
+      }
+  }
+
+chat_simulation: |
+  Simulate an interactive development session between a developer and an AI assistant, focusing on implementing the specified system. Base the simulation on the provided development artifacts.
+
+  **Context:**
+  Development Artifacts: {artifacts_json}
+
+  **Simulation Guidelines:**
+  1. Focus on practical implementation challenges
+  2. Provide specific code examples when relevant
+  3. Address error handling and edge cases
+  4. Consider security and performance implications
+  5. Reference specific sections of the development plan
+
+  **Discussion Format:**
+  Developer: [Question about implementation detail]
+
+  AI Assistant: [Detailed technical response]
+  - Explanation of approach
+  - Code examples if relevant
+  - Best practices and considerations
+  - Next steps or alternatives
+
+  **Key Topics to Cover:**
+  1. Component implementation details
+  2. Integration challenges
+  3. Testing strategies
+  4. Performance optimization
+  5. Security considerations
+  6. Deployment procedures
+
+  Format as a natural conversation focused on solving real development challenges.

@@ -1,0 +1,933 @@
+0:00
+in this episode John Rush breaks down how you should start an online directory
+0:07
+how to idate for an online directory how to build an online directory using Ai
+0:15
+and how to grow an online directory using Ai and SEO and he just walks
+0:20
+through the entire process people are making 5K 10K 15K 20K a month uh with
+0:27
+these online directories they're super easy to create he thinks it's one of the lowest risk uh ways to start a startup
+0:36
+I'll let you decide enjoy the [Music]
+0:47
+episode we got John Rush the king of directories on the Pod you've heard it
+0:53
+you've heard him here before but today is a special episode because what are we learning today John well we'll learn how
+Why directories
+1:01
+to come up with ideas for directories how to validate them before you build
+1:06
+them how to build them and how to work on SEO once you build them so basically
+1:12
+all three important steps you have to build successful directories and why you should care
+1:19
+about this is we're kind of entering this like Golden Era of directories we're starting to see them be more and
+1:26
+more popular uh people want curation and directories provide that so if you're
+1:33
+looking for your next startup idea directories is a great place to start and uh I'm excited to to get in
+1:41
+with this I just like dive deep in directories I haven't done this with you
+1:46
+I figured you might as well do it publicly yeah that's there smart that's
+1:52
+100% correct so uh just to add on that the Reon directors are so big now and
+1:58
+they will be much bigger in the future is that as there's more content on the internet the quality of the content
+2:04
+becomes more important and I think directors are soling this pretty well because people trust directories if it's
+2:12
+a good directory they trust it that it's a Well curated content and it has some
+2:18
+reviews ratings and the quality is high and the person running it understands
+2:23
+the space and picks the right things there so I think people will be Outsourcing the decision making for for
+2:30
+the content to the directories from Google because now they ask Google and
+2:35
+that's uh that's becoming more and more relevant as we see that the top search
+2:42
+results of the Google are mostly dominated by all the hacks all right
+How to find directory ideas
+2:47
+well let's start with step one how do we find a directory idea that uh is
+2:54
+worthwhile to go after yeah so there are many ways of doing it but the best way
+3:01
+is to start based on keyword research so the keyword research is a way to see
+3:07
+whether people search for certain keywords and certain phrases and even if you think that certain idea is great but
+3:16
+often other people might not think so and you can figure out whether that's true or not by seeing what Google says
+3:21
+about that and and Google has this tool called Keyword Planner that people
+3:26
+usually use to plan their ads but you can also use that tool to see the traffic for directories not for director
+3:34
+for keywords and I basically spend hours in that tool every day just throwing all
+3:41
+random ideas into that tool and seeing whether there is traffic or not and I can show on a real example I have even
+3:48
+an idea I want to test today and I will show you how I would
+3:54
+test that idea actually right here on the P amazing amazing so while you're
+4:00
+pulling that up today's episode uh it's going to be like a live cooking session like we're going to find
+4:06
+an idea and we're going to go basically build this idea so if you're listening to this on audio might might be helpful
+4:13
+to head to to to YouTube yeah so one thing we saw is that
+4:19
+your podcast has been really great and it been it's been growing the startup
+4:25
+ideas and the idea I got from this is that that's the hottest part of the
+4:31
+whole startup Journey now is the ideas and I think the part people struggle the most with are the ideas and I
+4:40
+think people search a lot for ideas on Google and to validate that I went to
+4:46
+Google or I will go there now I don't some test before and and we come here
+4:53
+and we say business ideas now you can remove the filter on us to see the
+5:00
+whole world it's still in English so and now we're going to see whether
+5:06
+people search for it and as you see a lot of people search for it business ideas is almost 1 million a month that's
+5:14
+a lot and competition low uh this competition is is about the ads so
+5:20
+people don't pay for the ads for this keyword but finding this domain name is
+5:27
+pretty difficult because the next thing you have to think about about is like I have the keyword and I want to make directory and I want the domain name of
+5:34
+my directory to match the keyword if there is a match then it's go like for
+5:40
+example I had this directory called nextjs starters and it was exact match of the keyword exact match like letter
+5:47
+to letter and I launched that and I open it back in three months and it has a lot of traffic just because it's it's
+5:53
+perfect and it's do com in this case obviously this will be taken so I I go
+6:00
+to GoDaddy and I see whether business ideas.com is taken and it's obviously taken so then I have the next group of
+6:07
+uh keywords here I can s sort them and I can I can just take them one by one and
+6:14
+test them small business ideas little business ideas online business ideas all of them and
+6:22
+eventually uh just before the Pod I found one that was available which was
+6:29
+the mean business ideas and I I bought it so the mini
+6:35
+business ideas is a domain I will try why it's good so it's basically I will
+6:42
+explain now how how the domain and the keyword works so the key part here is
+6:47
+that the Google has made a change where in the old times Google would look at exact word match and now it it looks at
+6:55
+the meaning more than the actual words and that's why you have this small
+7:01
+business ideas here which is really high up here and basically can replay small
+7:07
+with something else that's has the same meaning and if it's available you can
+7:12
+take it and that's what I did so I tried tiny micro and then the mini was free so
+7:19
+I bought mini business ideas for $9 I never buy expensive domains like
+7:25
+it's always available just be more creative and find the one that's available so now I have the domain name main
+7:32
+business ideas I have the the idea itself so the idea is the director of
+7:38
+ideas that's pretty funny shh don't tell anyone but I've got 30 plus startup
+7:44
+ideas that could make you millions and I'm giving them away for free these
+7:50
+aren't just random guesses they're validated Concepts from entrepreneurs
+7:56
+who' built hundred million plus business businesses I've compiled them into one
+8:02
+simple database compiled from hundreds of conversations I've had on my podcast but
+8:10
+the main thing is most of these ideas don't need a single investor some cost
+8:16
+nothing to start I'm pretty much handing you a cheat sheet the idea bank is your
+8:22
+startup shortcut just click below to get access your next cash flowing business
+8:29
+is waiting for you and now I will go for the next step which is building the
+Building your directory
+8:35
+directory so there are many ways of building directories and the worst way of building directories is going into
+8:42
+the code and I am a developer myself a lot of people think I'm a not a developer that's why I always promote no
+8:48
+code but I've been coding for like 15 years and the reason I always say that
+8:54
+you should start with no code is this when you do no code you start faster
+9:00
+because you can use templates but that that's not the most important part the most important part is that once you
+9:06
+launch you have to do marketing and marketing goes around marketing Pages marketing experiments AB tests and all
+9:13
+those things and when you and also the blog and and and prog programmatic SEO
+9:19
+and all those things are usually out of the box on most modern CMS or web
+9:26
+Builders because they have thought about it that's why they built the whole systems and when you do that with nextjs
+9:33
+or you hardcode that with PHP you don't really think about the future and maybe
+9:38
+in the present you may find certain template too or boiler plate for that but then you'll have a lot of problems
+9:45
+in the future when you have to do the other marketing work because everything has to be done manually and for example
+9:51
+if you want to find somebody on appwork who will write certain pages for you and
+9:57
+publish them now you can't do that because it's all in code so you will get some Google doc and you will convert
+10:02
+that into code so it's all huge hustle and that's why it's even if you know how
+10:08
+to write code and you're great at that it's 100% better to go with no code
+10:14
+any tool but I obviously go with my own tool the Unicorn platform and let me
+10:19
+switch the tab to the other tab now all right so here we are it's a
+10:25
+unicorn platform like simple website builder that I pivoted
+10:32
+into into directory Builder I would say because most directories or most
+10:38
+websites built on unicorn now are directories and that's interesting and so we go here and we say
+10:47
+create and we find the directories so here are the templates and people always try to over
+10:56
+complicate things so I have this Discord group called directory makers and a guy
+11:03
+asked me today like I want to make a directory for lawyers and I want to have this and this and this like 20 features
+11:11
+and I say at the first launch of your directory the only thing that's
+11:16
+important is the items like if you put the out the ratings and everything it
+11:22
+will be empty because there will be no ratings there will be no users so all those features they don't make sense for
+11:28
+new director so the only thing that makes sense for a new directory is a simple page with a
+11:34
+name and items and everything else should come later in the month or even a
+11:39
+year so that's why I always start with very simple directory first so usually
+11:44
+it's um for example this one so this is probably the simplest one
+11:50
+here so I pick this all right and I can
+11:55
+actually simplify my work so I can ask AI to generate oh the directory for me and I
+12:04
+say directory of meanie mini business which by the way is
+12:11
+insane I had no idea you can do this oh really that's why I do things really
+12:16
+fast like people always ask me what's your routine I'm like I use AI for everything but I I do moderate
+12:23
+everything right so I understand the quality and I add it but I always use AI to start off Min I is
+12:30
+for people who want to start a small
+12:36
+site project St student in the
+12:43
+hackers and another founder all right let's
+12:52
+see so now it will basically help me to come up with the
+12:59
+with simple things like a menu and the structure the text the subtitle
+13:07
+like basically you could do this all by yourself too but why not to save time if
+13:12
+you can yeah so it's suggest me to basically have uh the directory here and
+13:19
+then to have uh featured ideas here which is pretty cool because this is uh
+13:26
+so in the directory everything has to be taken into the into the prism of SEO so
+13:34
+basically the more text you have the more items you have the more pages you have the more chance to score an SEO for
+13:41
+those pages and and for example in this case if you have featured ideas uh there's High chance that you can score
+13:48
+for SEO compared to just the ideas because ideas will be uh smaller items
+13:53
+and featured ideas you can probably spend time and create longer Pages all
+14:01
+right so it's pretty much almost done the work and okay now wa few more
+14:10
+seconds where it's making the futter for me I guess all right so it's making this also FAQ so FAQ is pretty important yeah
+14:17
+now it's done FAQ is really important too because in FAQ every Title Here is a
+14:22
+possible question people put in Google that's why the way you usually do with this is is pretty straightforward so you
+14:30
+go to Google and you try to search for something so you write how do I and then
+14:36
+it suggests you all the other options that other people search for and that
+14:41
+makes it obvious what exactly people search for and that's how you can basically for free understand what
+14:49
+people search for then you put them here uh into this FAQ and you answer those
+14:54
+questions and then there's a chance you can get traffic for this so I will I will show that which makes so much sense
+15:02
+if you think about it right it's yeah it's so basic and obvious but you'll be
+15:09
+surprised that almost Nobody Does it um some things look too easy and people
+15:16
+don't try it because it's they kind of expect things to be complicated and then being valuable and if something is easy
+15:23
+to do it feels like it's not valuable because everyone would be doing it so
+15:29
+uh how to start yeah so here you see so how to
+15:36
+start a business with no money how to start business as a teenager that's
+15:41
+interesting I would never think of this how to start a business as a teenager and and that's very good
+15:48
+keyword right because it's uh it's probably not served well because it's
+15:55
+not obvious and you could cover that so now I do this research and I write down all
+16:02
+these questions and then I go back to my uh page where I will cover them right so
+16:10
+I go here and and I say I ask AI
+16:17
+uh item for how to start business as a
+16:24
+tager so I say work for AI and then now it says how to start the business as a
+16:31
+teenager and now it puts the text so that's it so now I basically have a
+16:37
+pretty high chance uh to score on this keywords and of course if I want to go further I will
+16:44
+make a page that will have this title and full description but I usually don't
+16:51
+recommend making pages right away because it takes more time to make a page than to make a fake item that's why
+16:58
+start with this and then watch the queries in the search console and you will see whether you have any traffic
+17:05
+for this keyword and if you have any traffic for this keyword then go ahead and make a page for that then you'll win
+17:10
+more traffic so basically my whole approach with director is this you have to be doing as little as possible to
+17:18
+validate all the assumptions and then the assumption that wins going to take more of your time and you invest proper
+17:25
+human time into that and you make it really good because obviously AI is not
+17:31
+as good as humans but it it's it's pretty good for these experiments but then you make it Greater with your own
+17:38
+hands yeah so this is my article my my website and just to save time I will
+17:46
+switch to the website I just made because it's pretty much the same but with the
+17:52
+data yeah how I just made it before the the call so this is my directory the
+17:59
+small business ideas and uh I have all the ideas here and and my goal is to
+18:05
+have I know maybe 10 or 100 Sol ideas here and I looked at this keywords so I
+18:14
+put small little size startup so every keyword you see here has been validated
+18:21
+for traffic either directly or through indirect words and same for all the St in the FAQ
+18:29
+so every question I have here is coming from from the method I just used so
+18:35
+that's pretty much it and and here I have like feature business ideas so it all takes if it takes you more than one
+18:43
+evening then you're doing it wrong because if it takes more than one evening you need to redo your method
+18:51
+otherwise you're kind of riding on a small car on a on a slow car and you will never get really far with that so
+18:57
+you have to make sure that you're moving fast because there's a chance that everything I've done will fail there's
+19:03
+really high chance and maybe tomorrow or after a week I will figure out that this will not work that's why I usually bet
+19:09
+for five six 10 ideas and I test them all the same time so that I remove the
+19:16
+chance to be disappointed when one one idea fails that's that's pretty good
+19:22
+approach I would say like don't do Just One Directory because it will be disappointing and you have to wait quite a lot for SEO to get in and to validate
+19:30
+certain assumptions but if you have 10 of them then it's faster so now the next
+Promoting your new directory
+19:35
+thing I do is once I built the directory I have to promote it somewhere
+19:42
+so I I do few things so the first thing I do I go to Reddit and I search I just search in
+19:51
+Google small bonus ideas Reddit when I do that I will see all the Reddit
+19:58
+articles about that and then I go into those articles and I reply with my
+20:04
+URL just have to be careful to not be banned and to not be banned you have to
+20:10
+reply on articles where people actually ask for URLs and there are articles like
+20:16
+that where people ask do you know places to find the ideas and then you put your
+20:22
+url nobody going to hate you for that and there a lot of Articles like that so for this particular thing I found over
+20:29
+100 articles there're not it took me time you have to search with different kind of queries and then you don't have
+20:36
+to just go into every article and reply right away you just make a plan to make
+20:41
+three replies a day or one or two just to not be blocked or banned by by the Reddit engine itself because it has some
+20:49
+rules for URLs too besides the subreddits so that's number one thing I do and that brings some traffic and then
+20:55
+the number two thing I do is I put my directory into other
+21:01
+directories and that's probably the second best way to start on marketing
+21:09
+because uh directories are big and that's why the other directories might bring traffic to your directory but it
+21:15
+has to be relevant so you have to find directories which are relevant but again you Google for them and usually find
+21:22
+them and then the third thing I do is I go to social media and I start searching
+21:28
+for the same question and then when I find the question there I reply with my
+21:34
+directory there which works sometimes really well if if your directory
+21:40
+actually helps to the original question I had that when fireship had this what
+21:46
+was that he had this viral tweet about self Hoster software on Twitter and I
+21:52
+replied with my hosted software directory and it was the most viewed and
+21:58
+like reply there and since his post was like a million views mine got like 30 or
+22:04
+40K views it was really good and and the interesting thing that many people don't
+22:10
+know is that Google they don't say so but they
+22:15
+do this I I know for sure they look at backlinks from social media and if there
+22:22
+is a good tweet with a lot of views and there is your link there it's so valuable and in that particular case it
+22:30
+was like fifth or or 50th time I proved that so right after that tweet was going
+22:36
+viral with my link there the next day I had traffic from Google growing for everything I have for all the blogs for
+22:42
+all the items so this is way better backlink than a backlink from websites
+22:49
+actually now these days so that's the third thing I do social media and I
+22:55
+spend some time every day uh on that like probably every morning there are
+23:00
+tools for that to spy for keywords but I rather do it myself
+23:07
+because search is pretty good on Twitter and it's it's same kind of
+23:12
+experience but more native and then the fourth thing I do is the SEO and that's
+SEO for directory
+23:19
+probably the most important part and I do it after the first four steps because
+23:24
+first four steps help me to validate my idea because if I posted somewhere and no clicks it means that it doesn't click
+23:32
+with people right so people sew it but they don't click it it means it's a bad idea or the domain name is bad I have to
+23:39
+change something there's no reason to push it further but if I have some traffic and it looks fine then I go for
+23:45
+SEO because that's that's the key way of growing the directories and I will show
+23:50
+you what I do with SEO so I have built a tool for that too but there are a lot of ways of doing SEO and I will walk
+23:56
+through all of them but start with with the way I do it
+24:07
+myself yeah so I go here
+24:17
+and so I put my directory
+24:23
+here and basically what it does is that it scrapes my directory it it it will
+24:29
+now try to understand everything that's written on it it will try to do some research so it will basically do all the
+24:36
+actions I do usually myself and that's how we build this agent so I just took
+24:42
+all the actions I do and I program them into the agent and in a
+24:49
+minute it will come up with some ideas on what what what can I do with the with
+24:55
+SEO for this uh directory and while it's doing it there are other ways of doing
+25:01
+it so one way of doing it is to use clothing or chity and generate content
+25:09
+there but I would rather recommend using tools
+25:15
+for that because SEO is more than just a Content it's a lot about in internal
+25:21
+linking it's a lot about uh the structure the keyword research and all
+25:26
+those things so in this case it figured out the content of my page
+25:31
+and then it found uh the keywords and it came up
+25:37
+with uh with ideas so these are pretty good like 10 locost business ideas for
+25:44
+2025 uh and it evaluates the possible traffic it can get for that based on the
+25:49
+keywords and I can just go
+25:55
+further and here I have the done for 10 articles so don't start with alarm
+26:01
+articles some people just go crazy and you know publish hundreds of them if
+26:07
+your site is fresh and the domain rating is low if you publish a lot of Articles Google will just never coll them because
+26:15
+it will look like spam for Google that's why the first month you should have
+26:20
+maximum 50 pages or 50 articles on on your website and then second month you
+26:25
+can do more so I usually go for 10 artic on the first month all right I will approve this
+26:35
+one so now it's working on this article so it's um it's looking for the keywords
+26:42
+evaluating their traffic the complexity and then know working on a outline so it
+26:48
+does pretty good job and one way to learn SEO is to watch what saay or bot does and repeat it manually if if
+26:56
+someone wants to do it with their own hands because it does it pretty well it does
+27:02
+pretty well with all the steps and all the actions yeah so now we will create the
+27:07
+Articles and will publish them back to my website and quick ad break let me tell you about
+27:14
+a business I invested in it's called boring marketing.com so a few years ago
+27:20
+I met this group of people that were some of the best SEO experts in the world they were behind getting some of
+27:27
+the biggest companies found on Google and the secret sauce is they've got a set of technology and AI that could help
+27:35
+you outrank your competition so for my own businesses I wanted that I didn't
+27:40
+want to have to rely on Mark Zuckerberg I didn't want to depend on ads to drive customers to my businesses I wanted to
+27:47
+rank high in Google that's why I like SEO and that's why I use boring marketing.com and that's why I invested
+27:54
+in it they're so confident in their approach that they offer a 30-day spring with 100% money back guarantee who does
+28:01
+that nowadays so check it out highly recommend boring marketing.com and
+28:06
+that's it so from that moment I quit working on this directory
+28:13
+completely so it all takes me usually first day to build and promote it on Reddit and social
+28:21
+media and then the other day for SEO and more promotion and then I just stopped doing anything with that
+28:28
+and I go for the next directory or I go for other idea and then I come back in
+28:34
+30 days and I look at the traffic and I see
+28:40
+whether there is traffic or no traffic and sometimes there is no traffic and the thing is that if there's no traffic
+28:46
+from my experience if there's no traffic it's really hard to fix that so I I
+28:52
+never managed to make a directory have no traffic in the month and then do
+28:58
+something so that it actually gets the traffic it's very difficult because if there's no traffic then something is
+29:03
+wrong fundamentally maybe the domain name is wrong maybe uh the keyword look
+29:09
+easy but in fact it is not that's why my recommendation is to
+29:15
+never fall in love with the idea for a directory but rather make maybe five bats and then in
+29:21
+30 days look at the one that does the best and then put more time into that otherwise you'll be trying to you know
+29:28
+push the dying horse and will just never work and in thir days uh I find the
+29:36
+directory that does the best among all I did and then I do the next phase and the next phase is the data and that part is
+Data/Content for directory
+29:45
+even more important because at the beginning you just selling the idea and
+29:51
+people click that just to validate that they really care they have the pain but
+29:58
+you don't Focus that much yet on whether your directory is actually good because
+30:04
+if you focus on everything at once it's is difficult to be good at anything right so that's where the first 30 days
+30:09
+I focus only on validation of potential SEO traffic and the interest from people
+30:16
+but after a month I go full into the data and a lot of people who build
+30:22
+directories fail here like must fail here because they don't put enough
+30:29
+effort into making the data great and here's what happens if somebody opens
+30:35
+your directory and they know the topic they understand it they are probably
+30:42
+experts they can quickly see whether your data is high quality whe whether you understand the topic yourself and
+30:49
+you're not someone who just used chity to come up with the items right and if
+30:55
+that expert who sees your direct sees that the value of the content is
+31:01
+high the quality is high they really respect that and they they really want to share with their With Their
+31:08
+audience and that happened with all my good directories so they all have this
+31:13
+moment where an influencer or few shareed With Their audience because they think it's really good and they will
+31:19
+never think it's good if it's actually not good because they understand the data really well if they come to uh let's say I made this directory it was
+31:28
+um llm models and then first I had I just hired a guy to
+31:35
+fill it out with data and then I open it and I see that it's
+31:41
+missing mistell there's no mistal there and this this is the example where if an
+31:47
+expert comes in and they see you don't have mistell in your directory they will quickly realize that
+31:54
+you don't know the topic you would never miss the most important open source
+32:00
+project back at the time right and so if
+32:06
+if the data is great uh the influencers might share it with their audience and
+32:11
+from there your job pretty much ends because
+32:16
+now it just turns into the organic system that people share if somebody
+32:21
+shared then other people also want to share it like people work in a collective mind right and the only thing
+32:28
+you have to do from there is to make sure the data is great you keep running your
+32:33
+SEO activities like I run the agent and others can do other things but then the
+32:40
+key focus is making sure that you check the data you check the space
+32:47
+every week or month and you make sure that if there is really hot item appearing like new item that everybody
+32:54
+talks about on Twitter you have to add it there you have to add into to your directory and you have to do it fast
+33:00
+because if you do it fast there's a chance you will actually get the traffic from Google from people who search for
+33:06
+that new hot item right on your directory and that's why say there
+33:11
+there's very little work to do but you have to have put attention into the space almost every day so I have a lot
+33:19
+of directories I don't really do stuff but I scroll Twitter every day and once
+33:25
+I see that oh this item is relevant for this directory I just bring it in and
+33:31
+that's kind of the next way the next wave of growth comes from being early to
+33:36
+list hot items on your directory and Google will find nothing else on
+33:42
+internet to supply to the user who is searching for that and Google will will show your item your page for that yeah
+33:49
+okay so that's that's the whole path well it's the whole path so what
+33:55
+you've just first of all that's thank you for for going through that but what you've just explained is how to come up
+34:00
+with an idea for a directory how to create content for the directory how to
+34:06
+build the website for the directory how to uh how to grow the directory and how to iterate with the directory one of my
+How to monetize directory
+34:13
+questions is great now I'm getting 50,000 unique visitors a month on this directory how are people monetizing
+34:21
+directories uh and what what have you learned around the best ways to monetize directories if there is a best way
+34:28
+yeah yeah so there are multiple ways depending on your audience so if your
+34:34
+directory is B2B it's easier to monetize it because obviously uh you can go to
+34:41
+businesses who have the same audience as your directory and you can pitch them in
+34:47
+the banner spot or the sponsor options that's what I always did I had
+34:52
+directories of all gpts and I just sent an email to all GPT owners saying that
+34:58
+do you guys want to be featured on top of this directory because we have 30k items you just one of 30k do you want to
+35:04
+be the number one on the top and then a lot of people said yes so that's one way
+35:11
+the other way is the affiliate links and that way works pretty
+35:17
+good if the items you have on your directory cost a lot so if you have
+35:23
+items costing $10 then you'll make a little money on that because you need a lot of clicks but if you have items for
+35:30
+500 or few k then there is good money to be made there for example I have a directory for next GS boiler plates and
+35:38
+I have affiliate links to all the boiler plates and they all cost quite a lot and
+35:45
+it brings quite a good money good income so I would not exclude one way or the
+35:51
+other I would say do the first one do the second one like do the sponsoring do the affiliate links and then the third
+35:59
+option is uh is to sell the data be careful to
+36:05
+not sell the data as a is because obviously you can't sell people private data but you can
+36:11
+sell the the anonymized data or you can sell the
+36:16
+insights and that's possibly bringing good income if
+36:24
+you find somebody who needs that and usually you have to sell it to the corporates and you have to pitch that to
+36:30
+the bigger companies where they are interested in in in the percentage in the distributions and things like that
+36:38
+and the the most obvious way to monetize directory is to have a pay wall to list
+36:45
+for example in this case um it's probably harder for business ideas
+36:50
+because why would someone pay to list their business idea but for example if
+36:55
+you're making list of n n like search for nanes and then every Nanny would pay
+37:02
+quite good amount to be listed there if you have traffic and if you have the buyers and the same the buyers so that's
+37:09
+number four payable for listings charge 500 or $50 for listings and then the
+37:16
+number five is charge for Access for those who are most interested in the
+37:22
+case of directory of nannies if you are interested in hiring a nanny you would
+37:28
+probably pay good amount to get access to the whole database so you show top five or
+37:34
+you show nanis without their contact data without their photos and then to
+37:40
+unlock that contact data you have to pay and then you get access to the whole directory either you you get access for
+37:46
+life or you get access for a month and then you can charge them for for that every
+37:52
+month and the sixth is you find
+37:58
+uh the brand sponsors that's what I do now uh so once your directories are pretty big you can find big companies
+38:05
+big corporates who don't need the traffic who just need the brand promotion like we have Dev hun for
+38:12
+example and it's really big it's the biggest after produ hunt and and now it's very easy to get big Brands like
+38:22
+Clerk or like super base and others to want to be there to be affiliated with
+38:28
+it because that's where developers hang out and they're willing to pay just to be affiliated with the
+38:36
+product like so that you write like it's sponsored by super base and it's not for the clicks it's it's for their brand
+38:42
+there and they're willing to pay for that every month or every week so we have very good deals now with with a lot
+38:49
+of the players like that for ongoing sponsorship and and that's the best one
+38:54
+because a it's ongoing usually they will pay forever because your traffic just
+38:59
+keeps growing it just gets better for them and and also it doesn't destroy
+39:06
+your directory because the Banners are slightly annoying for users because they
+39:11
+will be shown and you want people to click on them so you will you will make them different color and that annoys
+39:17
+some people but the sponsor links are usually smaller and they don't annoy people that much so those are the six
+39:25
+ways and then the last way is or there two more but they are available
+39:31
+for those who have other projects so if you have SAS project like I do and the
+39:37
+main reason I started with directories was that I realized one really interesting thing it
+39:45
+is much harder to win SEO traffic for a SAS tool than for a directory so instead
+39:52
+of trying to win SE traffic directly for my SAS tool which has
+39:58
+some random brand name that has nothing to do with the keyword that's why it's hard and I rather make
+40:05
+director following the SEO driven approach I win traffic on directories
+40:10
+and they channel the traffic from directories into the SAS
+40:16
+tools and that turned out to be the best idea I ever had in marketing because now
+40:25
+almost all my traffic goes not to my products but to directories and then to
+40:31
+the products and also directories are competing for the keywords that nobody
+40:37
+want to pay for for SAS you compete with VCB companies who are paying a lot for
+40:43
+the keywords but nobody wants to pay for directory keywords because there's no money there and there no VCB directory
+40:50
+that that wants to compete with you so that's the good way to monetize
+40:56
+directory indirectly basically it's your free traffic which you would otherwise
+41:02
+pay for and and the the last one is you can sell directories and you can sell
+41:08
+them exactly to the people who have SAS tools who have the same audience as your
+41:15
+directory and they would buy it just to channel the traffic and I did that I sold
+41:21
+all I sold all gbts do go to cheap. a
+41:27
+and they bought it because it has exactly the same audience and and it was really useful for them I
+41:36
+think there's probably the best Airy on the market right now for marketing for a
+41:41
+SAS company is to buy a directory and channeled the traffic it is way better
+41:46
+than newsletter ads or all other ways because directors are pretty cheap if you look at their traffic let's say
+41:53
+there's a directory with 100K views a month and you can buy it and in a year
+41:59
+you get a million views and in that million views you can Channel at least
+42:04
+3% so it's like 30k 30k clicks a year
+42:10
+and you will pay for the directory maybe 20K and if you pay 20K so it's less than a dollar per click less than a dollar
+How much can you sell a directory for
+42:17
+what are the multiples for directories approximately like what are people paying for a
+42:25
+directory there's no system at all it just depends on the audience because you
+42:30
+you can't have multiples based on Revenue because re revenue is usually not that important the traffic itself
+42:35
+also like some traffic is more expensive than the others I think from what I seen the actual Deals
+42:44
+they go from 2K they start at 2K so you can find and buy a director for 2K which
+42:51
+is which has traffic so it will definitely pay the the investment back
+42:57
+and then the average directories go for 20K in average so small ones go for 2 to
+43:03
+5K and then 15 to 20K the average ones and then the bigger ones go to
+43:09
+100K and I think that's where it stops I never seen a directory being sold for
+43:14
+over 100k and where where are people finding like if you if someone wants to
+43:20
+go and buy a directory do is there a Marketplace that people can go to or um
+43:26
+is this like reaching out to to Founders who who are selling directories well I just bought the
+43:32
+domain called sell directories.com yesterday so I will launch the the
+43:38
+marketplace that's hilarious right now I see them mostly on small marketplaces
+43:45
+like not the ac.com because aire.com doesn't let directors in because they don't have revenue and they require
+43:52
+their revenue but then there are these smaller marketplaces for smaller rep sites and I see directories there often
+43:59
+for example one I seen the directories the most on called Micron iio I think
+44:06
+it's a small one and they had like 10 directories under 10k there some sold
+44:14
+some still being sold so but I think the best way to actually buy
+44:19
+director is to go to similar web
+44:25
+and research the traffic research the audience research the
+44:31
+countries and then reach out to them and offer to buy I I do
+44:38
+that and because if somebody put their directory for sale very often they want
+44:44
+to sell it for quite a lot but if you surprise a Founder with a offer for a
+44:50
+directory they might just sell it right away for the offer you made and you can have a better deal I think that's what I
+44:58
+do right now last question and I know you don't brag or really share
+45:05
+mrr that that much but as much as you're willing to share if someone you know
+How large can a directory became
+45:11
+what I like about directories is you can do it yourself or even a like micro or tiny team um what sort of scale could
+45:20
+some of these businesses get to how big could some of these directories get to if someone to
+45:27
+start one of these I think the the 5K is
+45:33
+is probably where you can get without being lucky or being too smart like in
+45:39
+in my case I would say the average directory I have is there it's on
+45:46
+5K uh and I know that if I put more time I can bring it to maybe 15 to 20K I
+45:53
+think 20K is probably the limit for the the right now on the market unless you
+46:00
+want to go fulltime into that and that's your main project but I don't see director as main projects so I only see
+46:06
+them as side projects and I think as a side project where you have either I have my main projects but other people
+46:12
+have main jobs for for that kind of case I think people can expect 5K Mr on that
+46:19
+and then uh eventually get to the 10K but I wouldn't hope for a lot more than
+46:25
+that so I would look at directories as a as a way to fund your life if you don't
+46:30
+live in us because that's good money outside of us or I think directories are
+46:37
+really good way to start building soft not software but digital products
+46:42
+because starting with SAS is is the is the worst idea because you
+46:48
+will fail Almost 100% And then you'll
+46:53
+probably feel bad about that and never start again and go back to a job but with directories it's really hard to
+47:00
+fail I don't think anyone can fail if they launch enough directories and if
+47:05
+they spend you know six months on on those directories because in SAS failure
+47:12
+means that you don't have growing revenues but in directories if you get to stable 5K visits a month for a B2B
+47:20
+directory you will sell four or five ads and you will make three 4K a month on that and and that it will stay that way
+47:28
+and even if you do nothing it will just grow because you have SEO as your channel and SEO tends to grow even if
+47:35
+you do nothing if it's a directory because directories are in non-competitive keywords so that's why
+47:43
+my recommendation start with a directory as your first attempt to build interet
+47:52
+business and you will have more fun because you will get
+47:59
+the doamin faster so B traffic and maybe the first sponsor all those things it
+48:05
+will get faster compared to SAS and then you decide either you go full I see I I
+48:11
+know people who go with directories uh full in for example starter story is a
+48:17
+directory too right it's a directory of starter stories and he's making our a million and uh prod hunt was the
+48:25
+directory of ideas first there was no voting system at all it was just a list
+48:30
+of products he would just look around the internet and put in and send into newsletter every day right so there's a
+48:39
+way to grow into millions but also the risk of failing
+48:44
+completely is pretty low too yep well I think that's a beautiful
+48:50
+place to end um John where where could people find
+48:57
+find out more about you and get to know you better on the internet Twitter is the best place is
+49:03
+John Rush X or my website John rush. me
+49:09
+and I have this directory guide I I launched where where I walk through all
+49:14
+these steps of Ting building growing selling monetizing so that's probably
+49:19
+something people should look it into if they want to learn the directory World
+49:26
+beautiful beautiful well man this has been a this has been a gift you gave people a gift I think directories are criminally
+49:34
+underrated and uh I appreciate you coming back on uh the show if people liked it you gotta like it on YouTube I
+49:42
+guess right and you gotta you know comment and and and build John up you
+49:48
+know he came he shared some Secrets uh let's get this let's let's
+49:53
+you know spread the love and and uh And subscribe and I'll and I'll see you
+49:59
+all on the next pod yeah thanks for having me later John thanks for coming on you're the man
+50:07
+appreciate you [Music]

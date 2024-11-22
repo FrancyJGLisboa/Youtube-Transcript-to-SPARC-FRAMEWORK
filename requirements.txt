@@ -1,0 +1,8 @@
+openai
+rich
+pyyaml
+python-dotenv
+asyncio
+google-generativeai
+tiktoken
+click
