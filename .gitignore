@@ -1,7 +1,7 @@
-# Python
+## Python
 __pycache__/
 *.py[cod]
-*.class
+*$py.class
 *.so
 .Python
 build/
@@ -23,33 +23,20 @@ wheels/
 # Virtual Environment
 venv/
 ENV/
-
-# Environment variables
-.env
+env/
 
 # IDE
 .idea/
 .vscode/
 *.swp
 *.swo
+.DS_Store
 
 # Project specific
-output/
-# Environment variables
 .env
+*.log
+.Rhistory
 
-# Python cache files
-__pycache__/
-*.pyc
-
-# Virtual environment
-venv/
-ENV/
-env/
-
-# Logs
-sparc_generator.log
-
-# Other files to ignore
-*.md
+# Temp files
+*.tmp
 

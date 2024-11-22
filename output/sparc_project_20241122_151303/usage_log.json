@@ -1,0 +1,58 @@
+[
+  {
+    "context": "chunk_1",
+    "model": "gpt-4o",
+    "prompt_tokens": 3071,
+    "response_tokens": 439,
+    "total_tokens": 3510,
+    "timestamp": "2024-11-22T15:13:11.305013"
+  },
+  {
+    "context": "specification",
+    "model": "gpt-4o",
+    "prompt_tokens": 521,
+    "response_tokens": 1024,
+    "total_tokens": 1545,
+    "timestamp": "2024-11-22T15:13:25.359437"
+  },
+  {
+    "context": "pseudocode",
+    "model": "gpt-4o",
+    "prompt_tokens": 1210,
+    "response_tokens": 1111,
+    "total_tokens": 2321,
+    "timestamp": "2024-11-22T15:13:49.666374"
+  },
+  {
+    "context": "architecture",
+    "model": "gpt-4o",
+    "prompt_tokens": 1336,
+    "response_tokens": 1074,
+    "total_tokens": 2410,
+    "timestamp": "2024-11-22T15:14:03.380171"
+  },
+  {
+    "context": "refinement",
+    "model": "gpt-4o",
+    "prompt_tokens": 1290,
+    "response_tokens": 962,
+    "total_tokens": 2252,
+    "timestamp": "2024-11-22T15:14:22.952409"
+  },
+  {
+    "context": "completion",
+    "model": "gpt-4o",
+    "prompt_tokens": 1155,
+    "response_tokens": 972,
+    "total_tokens": 2127,
+    "timestamp": "2024-11-22T15:14:51.624857"
+  },
+  {
+    "context": "validation",
+    "model": "gpt-4o",
+    "prompt_tokens": 6078,
+    "response_tokens": 225,
+    "total_tokens": 6303,
+    "timestamp": "2024-11-22T15:14:57.782563"
+  }
+]

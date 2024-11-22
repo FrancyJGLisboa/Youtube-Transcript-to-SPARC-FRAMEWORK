@@ -1,0 +1,135 @@
+[
+  {
+    "sequence_number": "1.0",
+    "role": "user",
+    "content": "Set up the core infrastructure for the AI Stock Prediction System. This includes the necessary hardware and software resources.",
+    "dependencies": [],
+    "estimated_time": "2h"
+  },
+  {
+    "sequence_number": "1.1",
+    "role": "user",
+    "content": "Implement the functionality to perform Monte Carlo simulations. Ensure the system can run these simulations multiple times accurately.",
+    "dependencies": [
+      "1.0"
+    ],
+    "estimated_time": "3h"
+  },
+  {
+    "sequence_number": "1.2",
+    "role": "user",
+    "content": "Implement the functionality to process large amounts of data and produce detailed data for different types of simulations.",
+    "dependencies": [
+      "1.1"
+    ],
+    "estimated_time": "4h"
+  },
+  {
+    "sequence_number": "1.3",
+    "role": "user",
+    "content": "Implement the functionality to run trading simulations accurately. Ensure a trading simulation report is generated after running the simulations.",
+    "dependencies": [
+      "1.2"
+    ],
+    "estimated_time": "3h"
+  },
+  {
+    "sequence_number": "1.4",
+    "role": "user",
+    "content": "Implement the functionality to predict future stock prices based on historical data. Ensure the prediction is accurate and reliable.",
+    "dependencies": [
+      "1.3"
+    ],
+    "estimated_time": "4h"
+  },
+  {
+    "sequence_number": "1.5",
+    "role": "user",
+    "content": "Implement the functionality to generate detailed performance reports. Ensure the report includes all necessary details about the system's performance.",
+    "dependencies": [
+      "1.4"
+    ],
+    "estimated_time": "2h"
+  },
+  {
+    "sequence_number": "2.0",
+    "role": "user",
+    "content": "Implement the user interface. Users should be able to input the stock they want to predict, run simulations, and view performance reports.",
+    "dependencies": [
+      "1.5"
+    ],
+    "estimated_time": "3h"
+  },
+  {
+    "sequence_number": "3.0",
+    "role": "user",
+    "content": "Implement Integrate the system with the Yahoo Finance API for fetching stock data. Ensure the system can process large amounts of data from this API.",
+    "dependencies": [
+      "2.0"
+    ],
+    "estimated_time": "2h"
+  },
+  {
+    "sequence_number": "4.0",
+    "role": "user",
+    "content": "Implement performance metrics. The system should process data quickly and run simulations and predictions accurately and efficiently.",
+    "dependencies": [
+      "3.0"
+    ],
+    "estimated_time": "2h"
+  },
+  {
+    "sequence_number": "4.1",
+    "role": "user",
+    "content": "Implement Ensure the system is scalable and can handle an increased amount of data as the number of stocks increases.",
+    "dependencies": [
+      "4.0"
+    ],
+    "estimated_time": "1h"
+  },
+  {
+    "sequence_number": "4.2",
+    "role": "user",
+    "content": "Implement security measures to ensure the security of the data being processed.",
+    "dependencies": [
+      "4.1"
+    ],
+    "estimated_time": "2h"
+  },
+  {
+    "sequence_number": "4.3",
+    "role": "user",
+    "content": "Implement Ensure the system is reliable and provides accurate predictions based on historical data.",
+    "dependencies": [
+      "4.2"
+    ],
+    "estimated_time": "1h"
+  },
+  {
+    "sequence_number": "5.0",
+    "role": "user",
+    "content": "Implement Address system constraints. Ensure the system's predictions are based on historical data and that it is not intended for financial advice.",
+    "dependencies": [
+      "4.3"
+    ],
+    "estimated_time": "1h"
+  },
+  {
+    "sequence_number": "5.1",
+    "role": "user",
+    "content": "Implement Ensure the system can handle large amounts of data without requiring excessive resources.",
+    "dependencies": [
+      "5.0"
+    ],
+    "estimated_time": "1h"
+  },
+  {
+    "sequence_number": "5.2",
+    "role": "user",
+    "content": "Implement Ensure the system complies with all necessary data protection and privacy laws.",
+    "dependencies": [
+      "5.1"
+    ],
+    "estimated_time": "1h"
+  }
+]
