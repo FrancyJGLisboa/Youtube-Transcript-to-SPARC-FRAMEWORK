@@ -14,6 +14,8 @@ import json
 from datetime import datetime
 import logging
 from typing import Dict, Any, Optional
+from openai import AsyncOpenAI
+
 
 from sparc_generator.core import (
     SPARCPromptGenerator, 
@@ -89,7 +91,7 @@ async def _generate(transcript_file: str, output: Optional[str], project_name: O
     try:
         # Load configuration
         config = load_config()
-        
+
         # Override model if specified
         if model_override:
             config["model"] = model_override
@@ -104,6 +106,7 @@ async def _generate(transcript_file: str, output: Optional[str], project_name: O
 
         output_dir = Path(output or config["output_dir"]) / project_name
 
+        # Initialize AsyncOpenAI client
         generator = SPARCPromptGenerator(
             api_key=config["api_key"],
             model=config["model"],
@@ -164,7 +167,7 @@ async def _generate(transcript_file: str, output: Optional[str], project_name: O
             "artifacts": artifacts,
             "validation": validation
         }
-
+    
         # Save results
         with console.status("[bold green]Saving results..."):
             try:
